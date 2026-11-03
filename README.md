@@ -2,6 +2,18 @@
 
 Este projeto é uma evolução arquitetural de um sistema de comunicação escolar, migrado de Express para **NestJS**. O objetivo foi aplicar padrões de design sólidos, modularização e escalabilidade no backend.
 
+## Demonstração
+
+** Estudante
+https://github.com/user-attachments/assets/97c70b68-8172-47c7-b9d2-635e75d8fb1c
+
+**Coordenador
+https://github.com/user-attachments/assets/979c7c96-441b-45ca-8085-3934c3883cd1
+
+
+
+
+
 ##  Diferenciais Arquiteturais
 Diferente de uma aplicação Node comum, este projeto utiliza a estrutura rigorosa do NestJS para garantir organização:
 - **Modularização:** Cada domínio (Estudante, Adm, Auth, Comentários) possui seu próprio módulo.
