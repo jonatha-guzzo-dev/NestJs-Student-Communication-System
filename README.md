@@ -6,16 +6,11 @@ Este projeto é uma evolução arquitetural de um sistema de comunicação escol
 
 ** Estudante
 
-
-
 https://github.com/user-attachments/assets/4a600a90-4652-4933-bf89-2759c0b028bc
 
-
 **Coordenador
-https://github.com/user-attachments/assets/979c7c96-441b-45ca-8085-3934c3883cd1
 
-
-
+https://github.com/user-attachments/assets/b09e7912-f02c-4c06-9e13-acbf142cdb02
 
 
 ##  Diferenciais Arquiteturais
