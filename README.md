@@ -5,7 +5,11 @@ Este projeto é uma evolução arquitetural de um sistema de comunicação escol
 ## Demonstração
 
 ** Estudante
-https://github.com/user-attachments/assets/97c70b68-8172-47c7-b9d2-635e75d8fb1c
+
+
+
+https://github.com/user-attachments/assets/4a600a90-4652-4933-bf89-2759c0b028bc
+
 
 **Coordenador
 https://github.com/user-attachments/assets/979c7c96-441b-45ca-8085-3934c3883cd1
